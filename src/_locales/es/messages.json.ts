@@ -141,6 +141,7 @@ export default exportAsMessages({
   searchEngines_duckduckgoName: "DuckDuckGo",
   searchEngines_ecosiaName: "Ecosia",
   searchEngines_kagiName: "Kagi",
+  searchEngines_mojeekName: "Mojeek",
   searchEngines_qwantName: "Qwant",
   searchEngines_searxName: "SearX",
   searchEngines_startpageName: "Startpage.com",

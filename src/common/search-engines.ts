@@ -7,6 +7,7 @@ export type SearchEngineId =
   | "duckduckgo"
   | "ecosia"
   | "kagi"
+  | "mojeek"
   | "qwant"
   | "searx"
   | "startpage"
@@ -329,6 +330,19 @@ export const SEARCH_ENGINES: Readonly<
     ],
     messageNames: {
       name: "searchEngines_kagiName",
+    },
+  },
+  mojeek: {
+    contentScripts: [
+      {
+        matches: [
+          "https://mojeek.com/search?*",
+        ],
+        runAt: "document_idle",
+      },
+    ],
+    messageNames: {
+      name: "searchEngines_mojeekName",
     },
   },
   qwant: {

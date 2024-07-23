@@ -141,6 +141,7 @@ export type MessageName =
   | "searchEngines_duckduckgoName"
   | "searchEngines_ecosiaName"
   | "searchEngines_kagiName"
+  | "searchEngines_mojeekName"
   | "searchEngines_qwantName"
   | "searchEngines_qwantDescription"
   | "searchEngines_searxName"

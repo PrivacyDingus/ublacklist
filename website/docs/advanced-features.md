@@ -183,7 +183,7 @@ Comments begin with `#`. Although any line that cannot be interpreted as a rule 
 
 ## Other search engines {#other-search-engines}
 
-This extension supports [Bing](#bing), [Brave](#brave) (partially), [DuckDuckGo](#duckduckgo), [Ecosia](#ecosia) (partially), [Kagi](#kagi), [Qwant](#qwant), [SearX](#searx) (partially), [Startpage.com](#startpagecom), [Yahoo! JAPAN](#yahoo-japan) (partially) and [Yandex](#yandex) (partially). This feature is disabled by default and can be enabled in the options page.
+This extension supports [Bing](#bing), [Brave](#brave) (partially), [DuckDuckGo](#duckduckgo), [Ecosia](#ecosia) (partially), [Kagi](#kagi), [Mojeek](#mojeek), [Qwant](#qwant), [SearX](#searx) (partially), [Startpage.com](#startpagecom), [Yahoo! JAPAN](#yahoo-japan) (partially) and [Yandex](#yandex) (partially). This feature is disabled by default and can be enabled in the options page.
 
 ![other search engines](/img/advanced-features/other-search-engines-1.png)
 
@@ -208,6 +208,10 @@ You can also enable it by clicking the toolbar icon when a search result page is
 ### Kagi {#kagi}
 
 ![kagi](/img/advanced-features/kagi.png)
+
+### Mojeek {#mojeek}
+
+![mojeek](/img/advanced-features/mojeek.png)
 
 ### Qwant {#qwant}
 

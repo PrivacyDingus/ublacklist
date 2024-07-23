@@ -455,6 +455,9 @@ export default exportAsMessages({
   // The localized name of Kagi.
   searchEngines_kagiName: "Kagi",
 
+  // The localized name of Mojeek.
+  searchEngines_mojeekName: "Mojeek",
+
   // The localized name of Qwant.
   searchEngines_qwantName: "Qwant",
 
